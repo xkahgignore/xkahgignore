@@ -31,7 +31,7 @@
 ### ・ Contact
 
 <div align="center">
-  <p>Reach out and collaborate via Discord: <a href="https://discord.com/users/1313132323918843955"><b>@xkahgignore</b></a></p>
+  <p>Reach out and collaborate via Discord: <a href="https://itooshii.lol/1gn0re"><b>@xkahgignore</b></a></p>
 </div>
 
 ---
