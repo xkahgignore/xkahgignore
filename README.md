@@ -31,7 +31,7 @@
 ### ・ Contact
 
 <div align="center">
-  <p>Reach out and collaborate via Discord: <a href="https://itooshii.lol/1gn0re"><b>@xkahgignore</b></a></p>
+  <p>Reach out and collaborate via Portfolio: <a href="https://itooshii.lol/1gn0re"><b>@xkahgignore</b></a></p>
 </div>
 
 ---
@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/1313132323918843955">
-    <img src="https://lanyard.cnrad.dev/api/1313132323918843955?showDisplayName=true&theme=light&bg=FFFFFF&idleMessage=%F0%9D%96%93%F0%9D%96%94%F0%9D%96%99%F0%9D%96%8D%F0%9D%96%8E%F0%9D%96%93%F0%9D%96%8C&hideTag=true" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/1313132323918843955?bg=000000&borderRadius=31px&theme=dark&showDisplayName=true&hideSpotify=false&hideStatus=false&hideClan=true&hideProfile=false&hideBadges=false&hideTimestamp=false" alt="Discord Presence" />
   </a>
 </div>
 
