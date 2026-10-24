@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/1313132323918843955">
-    <img src="https://lanyard.cnrad.dev/api/1313132323918843955?bg=000000&borderRadius=31px&theme=dark&showDisplayName=true&hideSpotify=false&hideStatus=false&hideClan=true&hideProfile=false&hideBadges=false&hideTimestamp=false" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/1313132323918843955?borderRadius=20px&showDisplayName=true&animatedDecoration=false&animated=false&bg=0d1117&hideDiscrim=false&ignoreAppId=&hideActivity=false&hideBadges=false&hideTimestamp=false&hideDecoration=false&hideStatus=false&hideClan=false&hideProfile=false&hideSpotify=false&idleMessage=%20" alt="Discord Presence" />
   </a>
 </div>
 
