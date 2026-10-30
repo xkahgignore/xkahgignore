@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/r2wcPBPD/snoopy2.png" width="120" style="border-radius: 50%; border: 2px solid #30363d;" alt="Tuan Khang Avatar">
+  <img src="https://i.ibb.co/DfQqqfCf/nobackground.png" width="120" style="border-radius: 50%; border: 2px solid #30363d;" alt="Tuan Khang Avatar">
 
   <div style="margin-top: 15px; margin-bottom: 10px;">
     <a href="https://git.io/typing-svg">
